@@ -13,9 +13,9 @@ app.use(userRoute);
 const PORT = process.env.PORT || 3001;
 
 con.on("open", () => {
-  // console.log("CONNECTED WITH DB...");
+  console.log("CONNECTED WITH DB...");
 });
 
 app.listen(PORT, () => {
-  // console.log("running on PORT 3001");
+  console.log("running on PORT 3001");
 });

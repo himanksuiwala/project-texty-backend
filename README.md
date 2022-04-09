@@ -1,2 +1,2 @@
 # project-texty-backend
-This is a Server Side code for textY
+This is a remote Server deployed for the project textY
